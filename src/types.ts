@@ -1,7 +1,7 @@
 import internal from "stream";
 
 // TODO: define interface
-export interface infoCard {
+export interface InfoCardType {
   name: string;
   id: number;
   completeStatus: boolean;
